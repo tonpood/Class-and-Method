@@ -63,7 +63,7 @@ print(strA + strspace + "\(int1)" + strspace + strC + strspace + "\(int6)" + str
 
 print(strA + strspace + "\(int1)" + strspace + strD + strspace + "\(int6)" + strspace + strB + strspace + "\(dou1/dou2)")
 
-
+print(strA + strspace + "\(int1)" + strspace + strD + strspace + "\(int6)" + strspace + strB + strspace + "\(double(int1)/doudle(int6))")
 
 
 
