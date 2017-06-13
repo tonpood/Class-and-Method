@@ -20,4 +20,9 @@ intArrayNum3 = [1.2,1.3,1.4,1.5]
 var intArrayNum4 = [String]()
 intArrayNum4 = ["ต้น","ทดสอบ","สุดยอด"]
 
-//
+//การเพิ่มสมาชิกให้ Array
+print("intArrayNum2 ==> \(intArrayNum2)")
+intArrayNum2.append(111)
+
+intArrayNum4
+intArrayNum4.append("POOD")
