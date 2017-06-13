@@ -4,5 +4,8 @@ import UIKit
 
 //กำหนดค่าให้กับ Dictionary
 
-var strDicNane = ["Android": "นี้คือ OS ของมือถือแอนดรอยด์", "IOS": "นี้คือ OS ของมือถือ IPhones"]
+var strDicNane = ["Android": "OS ของมือถือแอนดรอยด์", "IOS": "OS ของมือถือ IPhones"]
 
+//How to Use?
+strDicNane["IOS"]
+print("IOS คือ \(String(describing: strDicNane["IOS"]!))")
