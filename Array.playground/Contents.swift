@@ -20,4 +20,4 @@ intArrayNum3 = [1.2,1.3,1.4,1.5]
 var intArrayNum4 = [String]()
 intArrayNum4 = ["ต้น","ทดสอบ","สุดยอด"]
 
-		
+//
